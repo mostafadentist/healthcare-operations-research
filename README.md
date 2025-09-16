@@ -21,4 +21,4 @@ This repository highlights my applied work in **Operations Research (OR)** and *
 - Decision sciences (dynamic programming, decision analysis, game theory)
 - Applications in healthcare: patient flows, staff scheduling, and resource allocation
 
-📬 Contact: [mostafadentist@gmail.com](mailto:mostafadentist@gmail.com)
+📬 Contact: [mostafa_m_samy@stud.cu.edu.eg](mailto:mostafa_m_samy@stud.cu.edu.eg)
